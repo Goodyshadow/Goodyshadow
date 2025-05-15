@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Goodluck
-- 👀 I’m interested in Data analysis 
+- 👀 I’m interested in Hr Analytics 
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on data analysis projects ...
+- 💞️ I’m looking to collaborate on Hr analytics projects ...
 - 📫 How to reach me goodlucknwanekwu@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm a fast learner 
