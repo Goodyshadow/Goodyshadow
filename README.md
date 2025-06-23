@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Goodluck
+- 👋 Hi, I’m Nwanekwu Goodluck
 - 👀 I’m interested in Hr Analytics 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on Hr analytics projects ...
